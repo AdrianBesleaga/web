@@ -3,6 +3,7 @@
 http://localhost:8088/web
 ```
  Web Project, a personal development project. https://adrianweb.xyz/
+ Kanban board : https://github.com/AdrianBesleaga/web/projects/1?fullscreen=true
 ##### Backend
   - Spring-Boot
   - Spring-MVC
@@ -20,6 +21,7 @@ http://localhost:8088/web
   - REST Assured
 ##### Development
   - Jenkins
+  - Swagger
 ##### Plugins 
   - Lombok
 
