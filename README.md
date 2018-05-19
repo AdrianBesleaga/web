@@ -7,6 +7,8 @@ http://localhost:8088/web
   - Spring-Boot
   - Spring-MVC
   - Spring-Data-Jpa , Hibernate
+  - Spring-Security
+  - GraphQL
 ##### Databases
   - MongoDB , PostgreSQL
 ##### Frontend
