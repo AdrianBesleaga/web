@@ -13,7 +13,7 @@ http://localhost:8088/web
   - Spring-Security
   - GraphQL
 ##### Databases
-  - MongoDB , PostgreSQL
+  - PostgreSQL
 ##### Frontend
   - Angular
   - Sass (mobile ready)
@@ -30,7 +30,7 @@ http://localhost:8088/web
 ## Steps Done
 
   - Started the project setting up maven dependencies (pom.xml file)
-  - Installation of MongoDB and PostgreSQL
+  - Installation of PostgreSQL
   - Setting up Spring application.properties
   - Making a git repository and the first commit and push
 
